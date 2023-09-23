@@ -37,5 +37,5 @@ echo "<p>Nome: {$aluno2->getNome()}</p>";
 echo "<p>Idade: {$aluno2->getIdade()}</p>";
 echo "<p>Email: {$aluno2->getEmail()}</p>";
 
-$aluno3 = new Usuario();
+
 ?>

@@ -38,5 +38,11 @@ class Usuario
             echo "<p>O Email do {$this->getNome()} não é válido.</p>";        }
         $this->email = $email;
     }
+    /*public function __construct($nome, $idade=null, $email=null)
+    {
+        $this->nome = $nome;
+        $this->idade = $idade;
+        $this->email = $email;
+    }*/
 }
 ?>
